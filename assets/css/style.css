@@ -1,0 +1,36 @@
+.title{
+    text-align: center;
+}
+font-family: 'Kanit', sans-serif;
+
+.footer{
+    background-color: lightskyblue;
+}
+
+iconos{
+    align-items: center;
+}
+
+#quienessomos{
+    color: white;
+    background-color: black;
+}
+
+#destacados{
+    color: white;
+    background-color: black;
+}
+
+#contacto{
+    color: white;
+    background-color: black;
+}
+
+footer {
+    color: white;
+    background-color: lightskyblue;
+  }
+
+  .card-body{
+    background-color: lightblue;
+  }
